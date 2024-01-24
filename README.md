@@ -1,1 +1,1 @@
-# SchoolApplication-PythonProject
+# SchoolApplicationPython
